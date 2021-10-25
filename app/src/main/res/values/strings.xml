@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cronometro</string>
+
+    <string name="button_start">Iniciar</string>
+    <string name="button_pause">Pausar</string>
+    <string name="button_reset">Zerar</string>
+</resources>
